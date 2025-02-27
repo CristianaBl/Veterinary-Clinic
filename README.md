@@ -28,7 +28,7 @@ This application supports **full CRUD operations** (Create, Read, Update, Delete
 - 📅 Appointments  
 - 📂 Health Records  
 - 🔔 Notifications  
-- 👤 Users  
+
 
 Each entity supports:  
 ✅ Add  
