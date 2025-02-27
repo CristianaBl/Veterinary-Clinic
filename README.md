@@ -1,7 +1,9 @@
 # Veterinary-Clinic :woman_health_worker: :dog:
-:star:UML Diagram:
+## :star: UML Diagram:
+---
 ![image](https://github.com/user-attachments/assets/8aca734a-a69e-43d8-a8c8-8cd5c393c002)
 
+---
 Managing pet health can often be complex and time-consuming for both pet owners and veterinarians. This application provides a solution by integrating all essential functions into a user-friendly interface. Whether it's scheduling appointments, tracking vaccinations, or accessing medical records, this application is designed to offer pet owners and veterinarians a convenient platform to efficiently manage pet health. It provides various features that facilitate both appointment organization and the recording and viewing of medical information. The goal of the application is to improve the daily lives of pet owners and veterinarians by consolidating all important information in one place.
 
 ---
